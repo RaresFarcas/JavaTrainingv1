@@ -21,7 +21,7 @@ public class InterfataTest {
         persoanaStudent.setPrenume("Rares");
         persoanaStudent.Invata();
 
-        // Persoana angajat student
+        // Persoana  student  angajat
         PersoanaStudentAngajat persoanaStudentAngajat = new PersoanaStudentAngajat("Nume 3", "Prenume 3", " invata si munceste");
         persoanaStudentAngajat.Invata();
         persoanaStudentAngajat.Munceste();
